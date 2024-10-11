@@ -22,3 +22,7 @@ Proyectos:
 -(https://colab.research.google.com/drive/1inm9BF27hNywGKvdf_s7HrC_K2gMsrFF?usp=sharing)
 
 -(https://drive.google.com/file/d/1CHaaI5nYzJt4brXSeuYqeOuql0lDTorI/view?usp=sharing)
+
+
+CV:
+-https://drive.google.com/file/d/1-bYl_m8IHzYRV3SR3gCDHak3VuSRSkYL/view?usp=sharing
