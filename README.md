@@ -23,6 +23,8 @@ Proyectos:
 
 -(https://drive.google.com/file/d/1CHaaI5nYzJt4brXSeuYqeOuql0lDTorI/view?usp=sharing)
 
+-https://colab.research.google.com/drive/1KyTw6881MrA7M6iBPdYv4lsV7fJnxeHD?usp=sharing TAXIS (power bi, colab, pandas(python)
+
 
 CV:
 -https://drive.google.com/file/d/1-bYl_m8IHzYRV3SR3gCDHak3VuSRSkYL/view?usp=sharing
