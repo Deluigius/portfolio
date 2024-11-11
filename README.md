@@ -19,11 +19,11 @@ Experiencia:
 
 Proyectos:
 
--(https://colab.research.google.com/drive/1inm9BF27hNywGKvdf_s7HrC_K2gMsrFF?usp=sharing)
+-(https://colab.research.google.com/drive/1inm9BF27hNywGKvdf_s7HrC_K2gMsrFF?usp=sharing) Spotify (pandas, numpy, matplotlib, seaborn, analisis multivariado, machine learning)
 
--(https://drive.google.com/file/d/1CHaaI5nYzJt4brXSeuYqeOuql0lDTorI/view?usp=sharing)
+-(https://drive.google.com/file/d/1CHaaI5nYzJt4brXSeuYqeOuql0lDTorI/view?usp=sharing) HIV (Excel, Power Bi, diagrama entidad-relación)
 
--https://colab.research.google.com/drive/1KyTw6881MrA7M6iBPdYv4lsV7fJnxeHD?usp=sharing TAXIS (power bi, colab, pandas(python)
+-https://colab.research.google.com/drive/1KyTw6881MrA7M6iBPdYv4lsV7fJnxeHD?usp=sharing TAXIS (power Bi, Colab, pandas(python)
 
 
 CV:
